@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 ##given an array, will “rotate” the outer edges in alternating directions based on thickness
 
 def contoursShifting(A):
