@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 ## input an integer, output an array of spiral numbers i.e. input 3, output:
 ##	123
 ##	894
