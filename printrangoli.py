@@ -1,7 +1,9 @@
+# -*- coding: utf-8 -*-
 ##prints a ‘rangoli’ basically a letter pattern
 ##input is size output is picture
 ##example:
 ##print_rangoli(7)
+'''
 ------------g------------
 ----------g-f-g----------
 --------g-f-e-f-g--------
@@ -15,7 +17,7 @@ g-f-e-d-c-b-a-b-c-d-e-f-g
 --------g-f-e-f-g--------
 ----------g-f-g----------
 ------------g------------
-
+'''
 
 
 
